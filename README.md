@@ -1,6 +1,6 @@
 # Atlas
 
-![Atlas Dashboard](images/atlas-dashboard.png)
+![Atlas Dashboard](images/example.png)
 
 **Atlas** is a personal desktop dashboard built with Python and Pygame. It brings useful information, applications, and everyday tools together into one centralized interface.
 
