@@ -1,5 +1,7 @@
 # Atlas
 
+![Atlas Dashboard](images/atlas-dashboard.png)
+
 **Atlas** is a personal desktop dashboard built with Python and Pygame. It brings useful information, applications, and everyday tools together into one centralized interface.
 
 The dashboard displays live information from several services, including stocks, sports, weather, news, email, and tasks. It also provides quick access to applications such as Spotify, Claude, and Visual Studio Code.
